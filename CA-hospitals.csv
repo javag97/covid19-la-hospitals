@@ -1,0 +1,342 @@
+Hospital Name, City, Staffed Beds, Total Discharges, Patient Days, Gross Patient Revenue ($)
+Adventist Health Simi Valley, Simi Valley, 144, 6574, 26847, 666423
+Adventist Ukiah Valley, Ukiah, 50, 3451, 12747, 529977
+Downey Medical Center, Downey, 352, 15856, 70158, 2411332
+MarinHealth Medical Center, Greenbrae, 235, 9248, 39395, 2216874
+Providence Saint John's Health Center, Santa Monica, 266, 12400, 57959, 1259366
+Woodland Hills Medical Center, Woodland Hills, 252, 8564, 33082, 1304544
+60th Medical Group - David Grant USAF Medical Center, Travis Air Force Base, 0, 0, 0, 0
+Adventist Health and Rideout, Marysville, 209, 11677, 56930, 1452858
+Adventist Health Bakersfield, Bakersfield, 254, 17389, 67655, 2036693
+Adventist Health Glendale, Glendale, 451, 17633, 78905, 2544517
+Adventist Health Hanford, Hanford, 230, 9455, 47221, 1143207
+Adventist Health Lodi Memorial, Lodi, 190, 8990, 34259, 1456557
+Adventist Health Reedley, Reedley, 49, 1838, 6199, 301523
+Adventist Health Saint Helena, Saint Helena, 130, 3690, 22828, 1127609
+Adventist Health Selma, Selma, 0, 0, 0, 0
+Adventist Health Sonora, Sonora, 152, 4158, 14686, 996958
+Adventist Health Tulare, Tulare, 108, 688, 3359, 105590
+Adventist Health Vallejo, Vallejo, 0, 0, 0, 0
+Adventist Health White Memorial, Los Angeles, 353, 18937, 82082, 2393499
+AHMC Anaheim Regional Medical Center, Anaheim, 223, 10240, 46132, 1412018
+Alameda Hospital, Alameda, 215, 2408, 12134, 402813
+Alhambra Hospital Medical Center, Alhambra, 144, 4792, 20061, 553245
+Alta Bates Summit Medical Center, Oakland, 354, 11595, 52305, 1693389
+Alta Bates Summit Medical Center Herrick Campus, Berkeley, 0, 0, 0, 0
+Alta Bates Summit Medical Center Alta Bates Campus, Berkeley, 401, 9352, 65087, 1818558
+Alvarado Hospital Medical Center, San Diego, 304, 4832, 23507, 532834
+Anaheim Global Medical Center, Anaheim, 183, 2682, 19959, 295471
+Anaheim Medical Center, Anaheim, 484, 24383, 98691, 2777703
+Antelope Valley Hospital, Lancaster, 393, 19155, 86522, 1823103
+Antioch Medical Center, Antioch, 138, 7326, 25035, 939186
+Arrowhead Regional Medical Center, Colton, 456, 19145, 99359, 1642821
+Arroyo Grande Community Hospital, Arroyo Grande, 67, 4298, 14331, 542368
+Bakersfield Heart Hospital, Bakersfield, 47, 3098, 12512, 443526
+Bakersfield Memorial Hospital, Bakersfield, 421, 17245, 71705, 2051484
+Baldwin Park Medical Center, Baldwin Park, 257, 11026, 41403, 1847528
+Barstow Community Hospital, Barstow, 30, 2099, 6860, 469359
+Barton Memorial Hospital, South Lake Tahoe, 111, 2322, 7196, 452204
+Beverly Hospital, Montebello, 224, 10290, 39617, 430834
+California Hospital Medical Center, Los Angeles, 318, 18047, 77124, 1477782
+California Mens Colony Hospital, San Luis Obispo, 0, 0, 0, 0
+Casa Colina Hospital and Centers for Healthcare, Pomona, 99, 1195, 4371, 219339
+Cedars-Sinai Medical Center, Los Angeles, 880, 56087, 272413, 16647906
+Centinela Hospital Medical Center, Inglewood, 345, 15776, 62436, 1184803
+CHA Hollywood Presbyterian Medical Center, Los Angeles, 434, 12157, 57819, 933245
+Chapman Global Medical Center, Orange, 114, 1951, 5705, 203683
+Chinese Hospital, San Francisco, 65, 1188, 5357, 174600
+Chino Valley Medical Center, Chino, 112, 5235, 15076, 367010
+City of Hope Comprehensive Cancer Center, Duarte, 217, 6595, 73030, 3850813
+Clovis Community Medical Center, Clovis, 208, 15196, 70096, 1521612
+Coast Plaza Hospital, Norwalk, 117, 2401, 10857, 241144
+College Hospital Costa Mesa, Costa Mesa, 122, 4001, 40694, 103658
+College Medical Center, Long Beach, 221, 8949, 63677, 278370
+Colusa Medical Center, Colusa, 48, 930, 3349, 44455
+Community Hospital of Huntington Park, Huntington Park, 81, 3385, 13865, 380344
+Community Hospital of San Bernardino, San Bernardino, 347, 7284, 32372, 1158147
+Community Hospital of the Monterey Peninsula, Monterey, 286, 10600, 53689, 1843628
+Community Memorial Hospital, Ventura, 201, 11698, 50701, 1421945
+Community Regional Medical Center, Fresno, 887, 38619, 227803, 4808260
+Concord Medical Center, Concord, 244, 11397, 53393, 3091763
+Contra Costa Regional Medical Center, Martinez, 147, 6412, 42614, 815755
+Corona Regional Medical Center, Corona, 238, 7314, 30686, 979800
+CPMC Davies Campus, San Francisco, 223, 3123, 15735, 686866
+CPMC Mission Bernal Campus, San Francisco, 120, 3348, 16566, 414786
+CPMC Van Ness Campus, San Francisco, 0, 0, 0, 0
+Dameron Hospital, Stockton, 170, 3523, 13298, 969432
+Delano Regional Medical Center, Delano, 107, 2370, 8658, 194164
+Desert Regional Medical Center, Palm Springs, 369, 19134, 88402, 4051609
+Desert Valley Hospital, Victorville, 148, 9285, 38260, 888531
+Doctors Hospital of Manteca, Manteca, 73, 3789, 15639, 1109544
+Doctors Medical Center of Modesto, Modesto, 447, 22967, 115622, 6160383
+Dominican Hospital, Santa Cruz, 222, 10129, 47680, 1966666
+East Los Angeles Doctors Hospital, Los Angeles, 127, 2865, 13617, 326751
+Eden Medical Center, Castro Valley, 130, 8424, 40214, 1214602
+Eisenhower Medical Center, Rancho Mirage, 368, 19581, 68795, 3889867
+El Camino Hospital Los Gatos Campus, Los Gatos, 0, 0, 0, 0
+El Camino Hospital Mountain View Campus, Mountain View, 443, 22741, 82128, 3297556
+El Centro Regional Medical Center, El Centro, 161, 5477, 24960, 779464
+Emanate Health Foothill Presbyterian Hospital, Glendora, 105, 5685, 24141, 366130
+Emanate Health Inter-Community Hospital, Covina, 516, 23279, 101478, 1330022
+Emanate Health Queen of the Valley Hospital, West Covina, 325, 17166, 93266, 661125
+Emanuel Medical Center, Turlock, 209, 9059, 35880, 2162361
+Encino Hospital Medical Center, Encino, 148, 3066, 12251, 270830
+Enloe Medical Center, Chico, 338, 19702, 82842, 3128210
+Fairmont Rehabilitation and Wellness, San Leandro, 0, 0, 0, 0
+Fairview Developmental Center, Costa Mesa, 30, 41, 359, 114208
+Fontana Medical Center, Fontana, 626, 32864, 141541, 4404480
+Foothill Regional Medical Center, Tustin, 177, 2601, 10338, 350895
+Fountain Valley Regional Hospital and Medical Center, Fountain Valley, 400, 19041, 90669, 2671042
+French Hospital Medical Center, San Luis Obispo, 98, 4712, 18833, 742733
+Fresno Heart & Surgical Hospital, Fresno, 57, 3127, 11353, 331411
+Fresno Medical Center, Fresno, 169, 8227, 31848, 735472
+Fresno Surgical Hospital, Fresno, 27, 1790, 2234, 302064
+Garden Grove Hospital and Medical Center, Garden Grove, 167, 5058, 19814, 343018
+Garfield Medical Center, Monterey Park, 210, 9833, 52451, 1627916
+Glendale Memorial Hospital & Health Center, Glendale, 304, 9565, 42116, 985441
+Glendora Oaks Behavioral Health Hospital, Glendora, 128, 1817, 10081, 99945
+Goleta Valley Cottage Hospital, Santa Barbara, 28, 1687, 3629, 246779
+Good Samaritan Hospital, San Jose, 342, 16472, 81332, 4641559
+Good Samaritan Hospital, Los Angeles, 310, 11766, 68981, 1666481
+Good Samaritan Hospital North, Bakersfield, 64, 1120, 4611, 43101
+Greater El Monte Community Hospital, South El Monte, 117, 3144, 14772, 323789
+Harbor-UCLA Medical Center, Torrance, 428, 17504, 90535, 2191561
+Hazel Hawkins Memorial Hospital, Hollister, 168, 1795, 6892, 348045
+Hemet Global Medical Center, Hemet, 417, 9970, 42751, 821196
+Henry Mayo Newhall Memorial Hospital, Valencia, 238, 11109, 49029, 1664750
+Hi-Desert Medical Center, Joshua Tree, 175, 1945, 5472, 318620
+Highland Hospital, Oakland, 372, 10580, 59337, 2621048
+Hoag Hospital Irvine, Irvine, 0, 0, 0, 0
+Hoag Hospital Newport Beach, Newport Beach, 518, 31135, 130372, 3079041
+Hoag Orthopedic Institute, Irvine, 70, 4585, 8339, 410979
+Huntington Beach Hospital, Huntington Beach, 131, 3264, 16198, 230254
+Huntington Hospital, Pasadena, 568, 27431, 115763, 3273112
+Inland Valley Medical Center, Wildomar, 0, 0, 0, 0
+John F. Kennedy Memorial Hospital, Indio, 130, 6626, 21237, 1070601
+Kaiser Permanente Roseville Medical Center, Roseville, 340, 23533, 93479, 2468816
+Kaiser Permanente San Diego Medical Center, San Diego, 0, 0, 0, 0
+Kaiser Permanente San Francisco Medical Center, San Francisco, 239, 11811, 58640, 42665
+Kaiser Permanente South San Francisco Medical Center, South San Francisco, 120, 5617, 19873, 141943
+Kaiser Permanente Zion Medical Center, San Diego, 536, 25202, 107544, 2017796
+Kaweah Delta Health Care District, Visalia, 581, 23675, 115606, 2210690
+Keck Hospital of USC, Los Angeles, 330, 11725, 78713, 3469205
+Kern Medical Center, Bakersfield, 222, 10057, 51151, 849792
+LA Downtown Medical Center Downtown Campus, Los Angeles, 234, 6574, 54191, 235103
+La Palma Intercommunity Hospital, La Palma, 140, 2890, 11170, 196842
+Laguna Honda Hospital and Rehabilitation Center, San Francisco, 780, 24, 93, 423268
+Lakewood Regional Medical Center, Lakewood, 172, 8720, 40882, 1603301
+Loma Linda University Children's Hospital, Loma Linda, 343, 10859, 88968, 2326858
+Loma Linda University Medical Center, Loma Linda, 524, 22810, 105522, 5905347
+Loma Linda University Medical Center - Murrieta, Murrieta, 112, 8348, 32915, 1006291
+Loma Linda University Medical Center East Campus, Loma Linda, 0, 0, 0, 0
+Loma Linda University Surgical Hospital, Redlands, 0, 0, 0, 0
+Lompoc Valley Medical Center, Lompoc, 170, 1808, 7262, 179169
+Long Beach Medical Center, Long Beach, 453, 21321, 96989, 2723888
+Los Alamitos Medical Center, Los Alamitos, 146, 8858, 41510, 1778551
+Los Angeles Community Hospital, Los Angeles, 324, 10549, 52093, 553556
+Los Angeles Community Hospital at Norwalk, Norwalk, 0, 0, 0, 0
+Los Angeles County and University of Southern California Medical Center, Los Angeles, 670, 30230, 175910, 3977954
+Los Angeles Medical Center, Los Angeles, 528, 24306, 126450, 3653265
+Los Robles Regional Medical Center, Thousand Oaks, 327, 15484, 74482, 3135881
+Mad River Community Hospital, Arcata, 49, 1832, 8354, 219838
+Madera Community Hospital, Madera, 106, 3890, 16831, 202640
+Manteca Medical Center, Manteca, 251, 11793, 42615, 1286514
+Marian Regional Medical Center, Santa Maria, 388, 14933, 60821, 2435811
+Marina Del Rey Hospital, Marina Del Rey, 103, 4680, 15798, 604619
+Marshall Medical Center, Placerville, 124, 5133, 22005, 1150035
+Martin Luther King Jr. Community Hospital, Los Angeles, 131, 8720, 35944, 2289701
+Mee Memorial Hospital, King City, 95, 844, 3066, 209615
+Memorial Hospital Los Banos, Los Banos, 40, 1199, 4930, 249053
+Memorial Hospital of Gardena, Gardena, 172, 6412, 24789, 697044
+Memorial Medical Center, Modesto, 419, 15932, 78330, 2333215
+Menifee Global Medical Center, Menifee, 84, 3028, 12644, 233912
+Menlo Park Surgical Hospital, Menlo Park, 16, 225, 346, 54086
+Mercy General Hospital, Sacramento, 419, 14085, 61149, 3001298
+Mercy Hospital Downtown Bakersfield, Bakersfield, 226, 11632, 43497, 1348578
+Mercy Hospital of Folsom, Folsom, 106, 6827, 25384, 1054478
+Mercy Hospital Southwest, Bakersfield, 0, 0, 0, 0
+Mercy Medical Center, Merced, 186, 11860, 49054, 1452445
+Mercy Medical Center Redding, Redding, 262, 13455, 62477, 1843469
+Mercy San Juan Medical Center, Carmichael, 370, 20296, 95698, 3239223
+Methodist Hospital, Arcadia, 348, 14208, 69736, 1789260
+Methodist Hospital of Sacramento, Sacramento, 329, 9618, 37796, 1334586
+Mills-Peninsula Medical Center, Burlingame, 301, 10158, 51771, 1744901
+Mission Community Hospital, Panorama City, 145, 9046, 44713, 375991
+Mission Hospital Laguna Beach, Laguna Beach, 189, 3028, 14617, 246219
+Mission Hospital Mission Viejo, Mission Viejo, 523, 17856, 78352, 2743367
+Modesto Medical Center, Modesto, 0, 0, 0, 0
+Montclair Hospital Medical Center, Montclair, 106, 3218, 10490, 250865
+Monterey Park Hospital, Monterey Park, 101, 4898, 21067, 658157
+Moreno Valley Medical Center, Moreno Valley, 94, 4720, 14442, 396159
+Natividad Medical Center, Salinas, 172, 8488, 35339, 1200935
+Naval Health Clinic Lemoore, Lemoore, 0, 0, 0, 0
+Naval Hospital Camp Pendleton, Camp Pendleton, 0, 0, 0, 0
+Naval Medical Center San Diego, San Diego, 0, 0, 0, 0
+NorthBay Medical Center, Fairfield, 182, 9516, 44007, 3798736
+NorthBay VacaValley Hospital, Vacaville, 50, 2683, 11822, 540493
+Northridge Hospital Medical Center, Northridge, 394, 12668, 51230, 2331869
+Novato Community Hospital, Novato, 47, 1945, 6178, 238713
+O'Connor Hospital, San Jose, 348, 9357, 39283, 1482789
+Oak Valley Hospital, Oakdale, 150, 680, 2891, 179602
+Oakland Medical Center, Oakland, 365, 20686, 90961, 2439046
+Olive View-UCLA Medical Center, Sylmar, 304, 10939, 52933, 0
+Olympia Medical Center, Los Angeles, 204, 4692, 23619, 595128
+Ontario Medical Center, Ontario, 0, 0, 0, 0
+Orange Coast Memorial Medical Center, Fountain Valley, 218, 11962, 45983, 1257751
+Orange County Global Medical Center, Santa Ana, 228, 8497, 43970, 913044
+Orange County-Irvine Medical Center, Irvine, 0, 0, 0, 0
+Oroville Hospital, Oroville, 133, 13372, 45671, 907054
+Pacifica Hospital of the Valley, Sun Valley, 231, 3812, 18060, 153417
+Palmdale Regional Medical Center, Palmdale, 184, 8196, 33682, 1441416
+Palo Verde Hospital, Blythe, 51, 983, 2508, 65855
+Palomar Medical Center Downtown Escondido, Escondido, 0, 0, 0, 0
+Palomar Medical Center Escondido, Escondido, 329, 24148, 89760, 3293816
+Palomar Medical Center Poway, Poway, 236, 5635, 19869, 837912
+Panorama City Medical Center, Panorama City, 218, 8693, 33384, 1318936
+Paradise Valley Hospital, National City, 291, 8313, 45720, 448416
+Parkview Community Hospital Medical Center, Riverside, 191, 8149, 36311, 765922
+Patients Hospital of Redding, Redding, 10, 159, 306, 26974
+Petaluma Valley Hospital, Petaluma, 80, 2700, 10742, 508592
+PIH Health Hospital - Downey, Downey, 199, 8063, 30213, 990609
+PIH Health Hospital - Whittier, Whittier, 384, 17532, 73313, 3657657
+Pioneers Memorial Hospital, Brawley, 107, 4992, 20569, 458362
+Placentia-Linda Hospital, Placentia, 114, 2967, 9735, 885728
+Pomona Valley Hospital Medical Center, Pomona, 412, 21427, 100547, 4476735
+Porterville Developmental Center, Porterville, 44, 50, 811, 173197
+Providence Holy Cross Medical Center, Mission Hills, 377, 17839, 81440, 2602446
+Providence Little Company of Mary Medical Center San Pedro, San Pedro, 356, 5330, 24644, 776876
+Providence Little Company of Mary Medical Center Torrance, Torrance, 442, 17980, 74460, 2065567
+Providence Saint Joseph Medical Center, Burbank, 392, 15964, 73132, 2487010
+Providence Tarzana Medical Center, Tarzana, 246, 12823, 52685, 1292573
+Queen of the Valley Medical Center, Napa, 166, 6423, 29505, 1498558
+Rancho Los Amigos National Rehabilitation Center, Downey, 210, 1899, 21353, 568699
+Rancho Springs Medical Center, Murrieta, 240, 15834, 52738, 1426302
+Redlands Community Hospital, Redlands, 229, 11177, 46614, 1526187
+Redwood City Medical Center, Redwood City, 149, 8205, 29624, 839827
+Regional Medical Center of San Jose, San Jose, 258, 14893, 80140, 4387642
+Richmond Medical Center, Richmond, 0, 0, 0, 0
+Riverside Community Hospital, Riverside, 478, 24300, 122460, 5263182
+Riverside Medical Center, Riverside, 226, 10014, 44187, 54518
+Riverside University Medical Center, Moreno Valley, 439, 19161, 108469, 1570896
+Robert E. Bush Naval Hospital, Twentynine Palms, 0, 0, 0, 0
+Ronald Reagan UCLA Medical Center, Los Angeles, 445, 22945, 166121, 5140535
+Sacramento Medical Center, Sacramento, 287, 12242, 49780, 2152881
+Saddleback Medical Center, Laguna Hills, 248, 11939, 46100, 1323941
+Saint Agnes Medical Center, Fresno, 385, 24569, 118121, 1924865
+Saint Bernardine Medical Center, San Bernardino, 328, 15307, 66653, 1876590
+Saint Elizabeth Community Hospital, Red Bluff, 49, 3191, 10864, 503268
+Saint Francis Medical Center, Lynwood, 374, 19807, 101094, 1896998
+Saint Francis Memorial Hospital, San Francisco, 211, 3621, 17732, 926481
+Saint John's Pleasant Valley Hospital, Camarillo, 155, 3806, 14616, 558290
+Saint John's Regional Medical Center, Oxnard, 265, 10593, 50030, 1551509
+Saint Joseph Hospital, Orange, 446, 19280, 81128, 2912481
+Saint Joseph Hospital Acute Rehabilitation Unit, Eureka, 0, 0, 0, 0
+Saint Joseph Hospital Eureka, Eureka, 149, 6914, 33960, 1396649
+Saint Joseph's Medical Center, Stockton, 348, 20618, 96677, 3677037
+Saint Jude Medical Center, Fullerton, 320, 14179, 63334, 2383060
+Saint Louise Regional Hospital, Gilroy, 72, 3023, 11489, 487767
+Saint Mary Medical Center, Apple Valley, 212, 14145, 67995, 1723298
+Saint Mary's Medical Center, San Francisco, 159, 3875, 19584, 899242
+Saint Rose Hospital, Hayward, 195, 4941, 22139, 619899
+Salinas Valley Memorial Hospital, Salinas, 240, 11385, 48314, 2130504
+San Antonio Regional Hospital, Upland, 363, 17726, 71312, 2259006
+San Dimas Community Hospital, San Dimas, 95, 3578, 13199, 249129
+San Francisco VA Medical Center, San Francisco, 0, 0, 0, 0
+San Gabriel Valley Medical Center, San Gabriel, 273, 8411, 41494, 1113569
+San Gorgonio Memorial Hospital, Banning, 61, 2858, 10460, 294589
+San Joaquin General Hospital, French Camp, 196, 10432, 48402, 1639047
+San Jose Medical Center Main Campus, San Jose, 235, 11607, 41678, 1238690
+San Leandro Hospital, San Leandro, 45, 2854, 12095, 434067
+San Leandro Medical Center, San Leandro, 206, 11608, 44320, 1485405
+San Mateo Medical Center, San Mateo, 508, 2292, 13731, 473387
+San Rafael Medical Center, San Rafael, 116, 4133, 15002, 579602
+San Ramon Regional Medical Center, San Ramon, 123, 4730, 18419, 1143695
+Santa Barbara Cottage Hospital, Santa Barbara, 363, 17068, 83166, 1891266
+Santa Clara Medical Center, Santa Clara, 327, 18661, 83191, 0
+Santa Clara Valley Medical Center, San Jose, 974, 21100, 120937, 4245690
+Santa Paula Hospital, Santa Paula, 0, 0, 0, 0
+Santa Rosa Hospital, Santa Rosa, 173, 9456, 35672, 951504
+Santa Rosa Memorial Hospital, Santa Rosa, 298, 12004, 67738, 3019575
+Scripps Green Hospital, La Jolla, 150, 8028, 29500, 1417925
+Scripps Memorial Hospital Encinitas, Encinitas, 193, 12103, 48340, 1363718
+Scripps Memorial Hospital La Jolla, La Jolla, 365, 18731, 87972, 3543390
+Scripps Mercy Hospital Chula Vista, Chula Vista, 173, 9592, 47697, 310012
+Scripps Mercy Hospital San Diego, San Diego, 523, 29399, 130930, 3472243
+Sequoia Hospital, Redwood City, 208, 5412, 21850, 1265489
+Seton Medical Center, Daly City, 434, 4477, 19390, 1466907
+Seton Medical Center Coastside, Moss Beach, 0, 0, 0, 0
+Sharp Chula Vista Medical Center, Chula Vista, 343, 15528, 75139, 2216676
+Sharp Coronado Hospital, Coronado, 181, 2080, 6896, 387702
+Sharp Grossmont Hospital, La Mesa, 524, 26552, 116601, 3745598
+Sharp Mary Birch Hospital for Women and Newborns, San Diego, 0, 0, 0, 0
+Sharp Memorial Hospital, San Diego, 862, 33122, 169224, 5622192
+Shasta Regional Medical Center, Redding, 226, 6736, 30269, 809107
+Sherman Oaks Hospital, Sherman Oaks, 153, 5070, 20540, 404027
+Sierra Nevada Memorial Hospital, Grass Valley, 104, 5365, 19665, 723678
+Sierra View District Hospital, Porterville, 163, 6182, 26404, 667067
+Sierra Vista Regional Medical Center, San Luis Obispo, 162, 5615, 26366, 967250
+Sonoma Developmental Center, Eldridge, 13, 59, 1024, 123257
+Sonoma Specialty Hospital, Sebastopol, 37, 5074, 1590, 25811
+Sonoma Valley Hospital, Sonoma, 75, 1022, 3940, 272037
+South Bay Medical Center, Harbor City, 257, 10793, 40205, 1479009
+South Coast Global Medical Center, Santa Ana, 178, 3296, 14535, 287974
+South Sacramento Medical Center, Sacramento, 209, 14971, 56467, 1918236
+Southern California Hospital at Culver City, Culver City, 406, 7021, 35870, 661412
+Southern California Hospital at Hollywood, Hollywood, 612, 19465, 107073, 1162900
+St. Mary Medical Center Long Beach, Long Beach, 284, 11687, 56990, 1108338
+Stanford Health - ValleyCare - Pleasanton, Pleasanton, 0, 0, 0, 0
+Stanford Health Care - ValleyCare-Livermore, Livermore, 207, 8287, 27043, 1260139
+Stanford Hospital, Stanford, 477, 26067, 144224, 17968318
+Stanislaus Surgical Hospital, Modesto, 23, 476, 889, 117296
+Sutter Amador Hospital, Jackson, 52, 2184, 9432, 289980
+Sutter Auburn Faith Hospital, Auburn, 64, 3070, 10265, 515068
+Sutter Coast Hospital, Crescent City, 49, 2195, 7875, 271793
+Sutter Davis Hospital, Davis, 48, 3038, 13160, 450202
+Sutter Delta Medical Center, Antioch, 145, 6710, 29071, 784306
+Sutter Maternity and Surgery Center of Santa Cruz, Santa Cruz, 30, 678, 4693, 204102
+Sutter Medical Center, Sacramento, 523, 24722, 140335, 3760976
+Sutter Roseville Medical Center, Roseville, 328, 17463, 75374, 2268782
+Sutter Santa Rosa Regional Hospital, Santa Rosa, 84, 5603, 28594, 882401
+Sutter Solano Medical Center, Vallejo, 106, 3786, 18322, 568324
+Sutter Surgical Hospital - North Valley, Yuba City, 14, 485, 1154, 80798
+Sutter Tracy Community Hospital, Tracy, 77, 3405, 11977, 455081
+Temecula Valley Hospital, Temecula, 140, 8989, 36273, 886410
+Thousand Oaks Surgical Hospital, Thousand Oaks, 21, 1284, 2877, 175711
+Torrance Memorial Medical Center, Torrance, 512, 26197, 109202, 3930403
+Tri-City Medical Center, Oceanside, 305, 11454, 55090, 1508326
+Twin Cities Community Hospital, Templeton, 122, 4538, 18120, 796968
+UC Davis Medical Center, Sacramento, 617, 29526, 185940, 9116984
+UC San Diego Health - La Jolla Jacobs Medical Center, La Jolla, 0, 0, 0, 0
+UC San Diego Health System - Hillcrest, San Diego, 701, 33464, 208561, 6710771
+UCI Health, Orange, 414, 20911, 105093, 4328713
+UCLA Mattel Children's Hospital, Los Angeles, 0, 0, 0, 0
+UCLA Medical Center Santa Monica, Santa Monica, 281, 15321, 78570, 1661236
+UCSF Medical Center at Mission Bay, San Francisco, 0, 0, 0, 0
+UCSF Medical Center at Parnassus, San Francisco, 785, 35170, 235547, 15270254
+UCSF Medical Center Betty Irene Moore Women's Hospital, San Francisco, 0, 0, 0, 0
+USC Norris Comprehensive Cancer Center, Los Angeles, 60, 1556, 13660, 764436
+USC Verdugo Hills Hospital, Glendale, 165, 5749, 19008, 622400
+VA Central California Health Care System, Fresno, 0, 0, 0, 0
+VA Greater Los Angeles Healthcare System - West Los Angeles Medical Center, Los Angeles, 0, 0, 0, 0
+VA Loma Linda Healthcare System, Loma Linda, 0, 0, 0, 0
+VA Long Beach Healthcare System, Long Beach, 0, 0, 0, 0
+VA Northern California Health Care System - Valley Division - Sacramento VA Medical Center, Mather, 0, 0, 0, 0
+VA Palo Alto Health Care System - Palo Alto Division, Palo Alto, 0, 0, 0, 0
+VA San Diego Healthcare System, San Diego, 0, 0, 0, 0
+Vacaville Medical Center, Vacaville, 140, 5904, 25547, 862124
+Vallejo Hospital & Medical Offices, Vallejo, 248, 8475, 34738, 1240674
+Valley Presbyterian Hospital, Van Nuys, 350, 12970, 71916, 925086
+Ventura County Medical Center, Ventura, 272, 13756, 47378, 1746204
+Victor Valley Global Medical Center, Victorville, 101, 5263, 21496, 334765
+Walnut Creek Medical Center, Walnut Creek, 554, 17757, 90557, 4314033
+Walnut Creek Medical Center, Walnut Creek, 233, 11768, 49160, 0
+Washington Hospital, Fremont, 320, 12063, 63210, 2134671
+Watsonville Community Hospital, Watsonville, 106, 3618, 16606, 942970
+Weed Army Community Hospital, Fort Irwin, 0, 0, 0, 0
+West Anaheim Medical Center, Anaheim, 219, 6551, 24450, 520734
+West Covina Medical Center, West Covina, 46, 563, 1859, 57489
+West Hills Hospital & Medical Center, West Hills, 228, 8802, 41828, 1976495
+West Los Angeles Medical Center, Los Angeles, 265, 8946, 31484, 308494
+Whittier Hospital Medical Center, Whittier, 178, 7619, 30949, 780150
+Woodland Memorial Hospital, Woodland, 108, 3490, 10719, 797865
+Zuckerberg San Francisco General Hospital and Trauma Center, San Francisco, 397, 15244, 86146, 3676413
